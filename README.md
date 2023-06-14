@@ -80,6 +80,8 @@ public class program
 }
 ```
 ## Output:
+![image](https://github.com/Vineesh-AI-DS/File/assets/93427254/0a07cf6d-3bbc-43e5-82da-8d7aba02e256)
+
 
 ## Result:
 Thus a C# program to store the student details in file using structure concept is implemented successfully.
